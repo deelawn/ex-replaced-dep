@@ -1,4 +1,4 @@
-package repdep
+package greet
 
 import "fmt"
 
